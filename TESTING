@@ -1,0 +1,4 @@
+x=input("enter any string :")
+# type: ignore
+y=x.replace(':)',"🙂")
+print(y)
